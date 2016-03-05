@@ -1,0 +1,19 @@
+
+
+References:
+
+stackoverflow.com
+sci-kitlearn.org
+https://civisanalytics.com/blog/data-science/2016/01/06/workflows-python-using-pipeline-gridsearchcv-for-compact-code/
+
+
+Books:
+
+Machine learning for Hackers
+
+Udacity Courses:
+
+Machine Learning - Supervised, Unsupervised & Reinforcement
+
+
+“I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc."

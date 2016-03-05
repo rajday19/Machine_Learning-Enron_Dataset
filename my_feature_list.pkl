@@ -1,0 +1,16 @@
+(lp0
+S'poi'
+p1
+aS'salary'
+p2
+aS'bonus'
+p3
+aS'exercised_stock_options'
+p4
+aS'long_term_incentive'
+p5
+aS'fraction_emails_to_poi_from_person'
+p6
+aS'fraction_emails_from_poi_to_person'
+p7
+a.
